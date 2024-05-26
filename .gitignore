@@ -15,3 +15,5 @@ local_tmp/
 *ppt
 *pptx
 local_test.py
+.DS_Store
+.venv
