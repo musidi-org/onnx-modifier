@@ -44,7 +44,7 @@
 - 运行
 
   ```bash
-  python app.py
+  poetry run app
   ```
 
 ## 从可执行文件启动

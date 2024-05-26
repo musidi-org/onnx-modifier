@@ -1,3 +1,0 @@
-onnx==1.13.0
-flask==2.2.5
-onnx-tool==0.8.1
